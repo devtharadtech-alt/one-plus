@@ -30,6 +30,9 @@ export default defineNuxtConfig({
         dir: 'rtl'
       },
       title: 'One +',
+      // link: [
+      //   { rel: 'icon', type: 'image/x-icon', href: '/icon one.svg' }
+      // ],
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' }
